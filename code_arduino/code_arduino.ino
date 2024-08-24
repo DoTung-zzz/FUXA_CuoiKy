@@ -5,8 +5,8 @@
 
 const int DHT_PIN = 5;  
 DHTesp dht; 
-const char* ssid = "wifissid"; ///  wifi ssid 
-const char* password = "password";
+const char* ssid = "BDU-Teacher"; ///  wifi ssid 
+const char* password = "Giangvien-BDU";
 const char* mqtt_server = "test.mosquitto.org";// mosquitto server url
 
 WiFiClient espClient;
