@@ -268,3 +268,41 @@
 2024-08-24T06:56:47.433Z [info] daqstorage.connected-to-data '_db/daq-data_0_20240824065647.db' database
 2024-08-24T06:56:48.411Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
 2024-08-24T06:56:48.426Z [info] alarms.alarmstorage-init-successful!
+2024-08-24T07:10:02.640Z [info] FUXA V.1.2.0-1815
+2024-08-24T07:10:02.651Z [info] daqstorage: init successful!
+2024-08-24T07:10:03.013Z [info] api: init successful!
+2024-08-24T07:10:03.016Z [info] plugin-installed node-opcua 2.123.0
+2024-08-24T07:10:03.020Z [info] plugin-installed modbus-serial 8.0.16
+2024-08-24T07:10:03.020Z [info] plugin-installed node-bacnet 0.2.4
+2024-08-24T07:10:03.021Z [info] plugin-installed odbc 2.4.8
+2024-08-24T07:10:03.021Z [info] runtime init plugins successful!
+2024-08-24T07:10:03.022Z [info] currentstorage.connected-to _db/currentTagReadings.db database
+2024-08-24T07:10:03.023Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2024-08-24T07:10:03.024Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2024-08-24T07:10:03.028Z [info] currentstorage init successful!
+2024-08-24T07:10:03.030Z [info] users.usrstorage-init successful!
+2024-08-24T07:10:03.031Z [info] runtime init users successful!
+2024-08-24T07:10:03.044Z [info] project.prjstorage-init-successful!
+2024-08-24T07:10:03.044Z [info] runtime init project successful!
+2024-08-24T07:10:03.045Z [info] FUXA init in  431ms.
+2024-08-24T07:10:03.075Z [info] daqstorage reset!
+2024-08-24T07:10:03.076Z [info] 'FUXA Server' data loaded (0)
+2024-08-24T07:10:03.077Z [info] 'FUXA Server' created
+2024-08-24T07:10:03.083Z [info] 'FUXA Server' start
+2024-08-24T07:10:03.091Z [info] alarms check start
+2024-08-24T07:10:03.091Z [info] notificator check start
+2024-08-24T07:10:03.091Z [info] scripts.start-checkstatus
+2024-08-24T07:10:03.091Z [info] jobs check start
+2024-08-24T07:10:03.093Z [info] FUXA started!
+2024-08-24T07:10:03.100Z [info] WebServer is running http://127.0.0.1:1881/
+2024-08-24T07:10:03.115Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20240824065647.db' database
+2024-08-24T07:10:03.116Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2024-08-24T07:10:03.122Z [info] 'FUXA Server' restored 0/0 values
+2024-08-24T07:10:03.123Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20240824071003.db' database
+2024-08-24T07:10:03.127Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2024-08-24T07:10:03.128Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20240824065647.db'
+2024-08-24T07:10:03.132Z [info] daqstorage.load-map successful! '0'
+2024-08-24T07:10:03.144Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20240824065647.db' database deleted!
+2024-08-24T07:10:03.248Z [info] daqstorage.connected-to-data '_db/daq-data_0_20240824071003.db' database
+2024-08-24T07:10:04.115Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2024-08-24T07:10:04.131Z [info] alarms.alarmstorage-init-successful!
